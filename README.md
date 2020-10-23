@@ -23,7 +23,7 @@ optional arguments:
   -h, --help            show this help message and exit
   -n Number             Number of repeats for each test.
   -a ARGS, --args ARGS  Json file with {"args": [...], "kwargs": {...}} that will be passed to each test
-  -s SORT, --sort SORT  Parameter to sort result by(Possible: name, mean, median, best, worst)
+  -s SORT, --sort SORT  Parameter to sort result by(Possible: name, mean, variance, best, worst)
   --json                Output data as json string.
 ```
 
